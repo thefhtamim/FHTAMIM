@@ -2,7 +2,7 @@
 var scene = document.getElementById("scene");
 var parallaxInstance = new Parallax(scene);
 
-var keys = [
+/*var keys = [
   "Mercury",
   "Venus",
   "Earth",
@@ -10,7 +10,7 @@ var keys = [
   "Jupiter",
   "Saturn",
   "Uranus",
-  "Neptune"
+  "Neptune"*/
 ];
 var slider = new Swiper(".swiper-container", {
   // Optional parameters
